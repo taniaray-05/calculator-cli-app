@@ -22,3 +22,12 @@ A simple command-line calculator built with Python. It performs basic arithmetic
 
 ```bash
 git clone https://github.com/taniaray-05/calculator-cli-app.git
+```
+
+## Author
+
+**Tania Ray**
+*Python Developer Intern*
+Internship Task 01  
+
+
