@@ -26,8 +26,8 @@ git clone https://github.com/taniaray-05/calculator-cli-app.git
 
 ## Author
 
-**Tania Ray|**
-*Python Developer Intern|*
+**Tania Ray**
+*Python Developer Intern*
 Internship Task 01  
 
 
